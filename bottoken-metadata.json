@@ -2,6 +2,5 @@
   "name": "BotToken",
   "symbol": "BTK",
   "description": "BotToken is a token created on the Solana blockchain",
-  "image": "https://raw.githubusercontent.com/Jorge22f/solana-token/main/BotToken.jpg",
-  "attributes": []
+  "image": "https://raw.githubusercontent.com/Jorge22f/solana-token/main/BotToken.jpg"
 }
